@@ -1,0 +1,24 @@
+‌#NGAPAIN LU#ASW
+ sleep 1echo "AUTHOR : TIME SEMRAWUT / π£-Noxs™
+ "|lolcatecho
+ "GITHUB : HTTPS ://GITHUB.COM/RE-NOXSTM "|lolcatecho "SCRIPT BY : π£-Noxs™
+ "|lolcatecho "_________________________________________________"|lolcatecho ""echo
+ "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"echo
+ "\033[36;1m"echo "[===============================================[>"echo $green
+ "1.> DARK FB"echo "[===============================================]>"echo $purple
+ "2.> HACK WHATTSAPP"echo "[===============================================]>"echo $cyan
+ "3.> MBF "echo "[===============================================]>"echo $red
+ "4.> PHISING GEME / FB "echo "[===============================================]>"echo $white
+ "5.> HACK PULSA"echo "[===============================================]>"echo $green
+ "6.> HACK FREE FIRE"echo "[===============================================]>"echo $red
+ "7.> DARK FB VERSI 1.0"echo "[===============================================]>"echo $red
+ "8.> EXIT "echo "[===============================================]>"echoread -p
+ "[✓]PILIH :
+ " bro if [ $bro = 1 ] || [ $bro = 1 ]thengit clone https://github.com/Re-noxstm/CyberNEWcd cyberNEWpython2 Cyber.pyfi
+ if [ $bro = 2 ] || [ $bro = 2 ]thengit clone https://github.com/Re-noxstm/HACKWHATSAPPcd HACKWHATSAPPsh WhatSapp.shfi
+ if [ $bro = 3 ] || [ $bro = 3 ]thengit clone https://github.com/Re-noxtm/CendolDawetcd CendolDawetpython2 Hack.pyfi
+ if [ $bro = 4 ] || [ $bro = 4 ]thengit clone https://github.com/Re-noxtm/phisingcd phisingsh v2.shfi
+ if [ $bro = 5 ] || [ $bro = 5 ]thengit clone https://github.com/Re-noxtm/HACKPULSAcd HACKPULSAsh HACKPULSA.shfi
+ if [ $bro = 6 ] || [ $bro = 6 ]thengit clone https://github.com/Re-noxstm/FreeFirecd FreeFiresh Fire.shfi
+ if [ $bro = 7 ] || [ $bro = 7 ]thengit clone https://github.com/Re-noxstm/Dark1.0cd Dark1.0sh Dark.shfi
+ if [ $bro = 8 ] || [ $bro = 8 ]thensh g.shfi
